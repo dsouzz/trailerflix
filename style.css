@@ -54,7 +54,7 @@ main {
 
 .grid-catalogo {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 50px;
   width: 100%;
   justify-content: center;
@@ -64,7 +64,8 @@ main {
 CARD DE FILMES
 =================*/
 .card-filme {
-  width: 260px;
+  width: 100%;
+  max-width: 250px;
   background-color: #1f1f1f;
   border-radius: 6px;
   overflow: hidden;
@@ -81,7 +82,7 @@ CARD DE FILMES
 }
 
 .card-filme img {
-  width: 250px;
+  width: 100%;
   aspect-ratio: 2 / 3;
   object-fit: cover;
   align-self: center;
@@ -141,16 +142,16 @@ BARRA DE PESQUISA DE FILMES
 #input-busca {
   width: 100%;
   max-width: 300px;
-  
+
   padding: 10px 16px;
   font-size: 0.95rem;
-  
+
   border-radius: 20px;
   border: 1px solid #333;
-  
+
   background-color: #222;
   color: #fff;
-  
+
   outline: none;
   transition: all 0.3s ease;
 }
@@ -159,4 +160,67 @@ BARRA DE PESQUISA DE FILMES
   border-color: #e50914;
   box-shadow: 0 0 8px rgba(229, 9, 20, 0.5);
   background-color: #2a2a2a;
+}
+
+/*=======================
+RESPONSIVIDADE
+=========================*/
+
+@media (max-width: 1024px) {
+
+  .grid-catalogo {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+  }
+
+}
+
+@media (max-width:700px) {
+
+  .grid-catalogo {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+
+  .card-filme {
+    max-width: none;
+  }
+
+  .card-filme h3 {
+    font-size: .85rem;
+  }
+
+  .card-filme p {
+    font-size: .75rem;
+  }
+
+  .btn-assistir {
+    font-size: .8rem;
+    padding: 8px;
+  }
+
+  .search-container {
+    justify-content: center;
+  }
+
+  #input-busca {
+    max-width: 100%;
+  }
+
+}
+
+@media (max-width:400px) {
+
+  .grid-catalogo {
+    gap: 10px;
+  }
+
+  .card-filme-info {
+    padding: 8px;
+  }
+
+  .btn-assistir {
+    font-size: .75rem;
+  }
+
 }
