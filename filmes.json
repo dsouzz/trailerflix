@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "titulo": "Homem Aranha: De Volta ao Lar",
+    "sinopse": "Peter Parker tenta equilibrar a vida escolar enquanto prova seu valor como Homem-Aranha.",
+    "capa": "https://br.web.img3.acsta.net/pictures/17/05/29/23/31/530814.jpg",
+    "link": "https://youtu.be/2x-2iYxgMFU"
+  },
+  {
+    "id": 2,
+    "titulo": "Homem Aranha: Longe de Casa",
+    "sinopse": "Peter Parker embarca em uma viagem pela Europa, mas precisa enfrentar novas ameaças e assumir seu papel como Homem-Aranha. ",
+    "capa": "https://br.web.img2.acsta.net/pictures/19/07/05/17/30/5167951.jpg",
+    "link": "https://youtu.be/vaw_8DoqXfk"
+  },
+  {
+    "id": 3,
+    "titulo": "Thor: Ragnarok",
+    "sinopse": "Thor enfrenta uma poderosa ameaça e luta para salvar Asgard da destruição.",
+    "capa": "https://static.wikia.nocookie.net/dublagempedia/images/5/54/175443.jpg/revision/latest?cb=20200702151605&path-prefix=pt-br",
+    "link": "https://youtu.be/ue80QwXMRHg"
+  },
+  {
+    "id": 4,
+    "titulo": "Vingadores (2012)",
+    "sinopse": "Os maiores heróis da Marvel se unem para enfrentar uma ameaça que coloca a Terra em perigo.",
+    "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b6/Poster_de_Marvel%27s_Avengers.jpg/revision/latest?cb=20200704204510&path-prefix=pt-br",
+    "link": "https://youtu.be/KeNEGtsCWEk"
+  },
+  {
+    "id": 5,
+    "titulo": "Vingadores: Era de Ultron",
+    "sinopse": "Os Vingadores enfrentam Ultron, uma inteligência artificial que ameaça o futuro da humanidade.",
+    "capa": "https://br.web.img2.acsta.net/pictures/15/02/24/18/27/528824.jpg",
+    "link": "https://youtu.be/I4lgl7ImHSg"
+  },
+  {
+    "id": 6,
+    "titulo": "Vingadores: Guerra Infinita",
+    "sinopse": "Os Vingadores enfrentam Thanos em uma batalha pelo destino do universo.",
+    "capa": "https://static.wikia.nocookie.net/dublagempedia/images/2/2a/Filme-vingadores-guerra-infinita-hd-online-e-download-D_NQ_NP_673306-MLB28135349134_092018-F.jpg/revision/latest?cb=20190926151620&path-prefix=pt-br",
+    "link": "https://youtu.be/4jGRyEa2jhE"
+  },
+  {
+    "id": 7,
+    "titulo": "Vingadores: Ultimato",
+    "sinopse": "Os Vingadores se unem em uma missão final para reverter as consequências de Thanos.",
+    "capa": "https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg",
+    "link": "https://youtu.be/PgrmbRID0eY"
+  },
+  {
+    "id": 8,
+    "titulo": "Pantera Negra",
+    "sinopse": "Em Wakanda, um jovem rei assume o trono e enfrenta desafios que colocam seu povo e seu legado em jogo.",
+    "capa": "https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "link": "https://youtu.be/wL4a4MafSjQ"
+  },
+  {
+    "id": 9,
+    "titulo": "Capitã Marvel",
+    "sinopse": "Carol Danvers descobre seu verdadeiro passado e usa seus poderes para enfrentar uma ameaça intergaláctica.",
+    "capa": "https://image.tmdb.org/t/p/w1280/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "link": "https://youtu.be/Z1BCujX3pw8"
+  },
+  {
+    "id": 10,
+    "titulo": "O Incrível Hulk (2008)",
+    "sinopse": "Bruce Banner busca uma cura para sua condição enquanto foge de inimigos e enfrenta seu lado mais destrutivo.",
+    "capa": "https://br.web.img3.acsta.net/pictures/210/485/21048566_20131010182211313.jpg",
+    "link": "https://youtu.be/xbqNb2PFKKA"
+  },
+  {
+    "id": 11,
+    "titulo": "Homem Aranha: Sem Volta Para Casa (Versão Extendida)",
+    "sinopse": "Após ter sua identidade revelada, Peter Parker luta para salvar o multiverso.",
+    "capa": "https://image.tmdb.org/t/p/w1280/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "link": "https://youtu.be/bHzGeci_8wc"
+  },
+  {
+    "id": 12,
+    "titulo": "Homem Aranha: Um Novo Dia",
+    "sinopse": "Peter Parker vive um novo começo enquanto enfrenta desafios que colocam seu futuro como herói à prova.",
+    "capa": "https://media.themoviedb.org/t/p/original/kjNlN0gFNHRLUAfOs3AeNynUFKQ.jpg",
+    "link": "https://youtu.be/PlulyWs1kS4?si=71XEci7k5VFw9vvH"
+  },
+  {
+    "id": 13,
+    "titulo": "Thor",
+    "sinopse": "Thor é banido para a Terra e precisa aprender humildade para recuperar seus poderes e seu lugar em Asgard.",
+    "capa": "https://media.themoviedb.org/t/p/original/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+    "link": "https://youtu.be/JOddp-nlNvQ"
+  },
+  {
+    "id": 14,
+    "titulo": "Thor: O Mundo Sombrio",
+    "sinopse": "Thor enfrenta uma antiga ameaça que coloca os Nove Reinos em risco e testa sua coragem.",
+    "capa": "https://media.themoviedb.org/t/p/original/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+    "link": "https://youtu.be/5sUfuOj7zOw"
+  },
+  {
+    "id": 15,
+    "titulo": "Homem de Ferro",
+    "sinopse": "Tony Stark constrói uma armadura revolucionária e decide usar sua tecnologia para proteger o mundo.",
+    "capa": "https://media.themoviedb.org/t/p/original/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "link": "https://youtu.be/8ugaeA-nMTc"
+  },
+  {
+    "id": 16,
+    "titulo": "Homem de Ferro 2",
+    "sinopse": "Tony Stark enfrenta novos inimigos enquanto lida com desafios que ameaçam seu legado e sua vida.",
+    "capa": "https://media.themoviedb.org/t/p/original/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+    "link": "https://youtu.be/BoohRoVA9WQ"
+  },
+  {
+    "id": 17,
+    "titulo": "Homem de Ferro 3",
+    "sinopse": "Tony Stark enfrenta um poderoso inimigo e precisa confiar em sua inteligência para proteger quem ama.",
+    "capa": "https://media.themoviedb.org/t/p/original/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+    "link": "https://youtu.be/igfXmU1r_mc"
+  }
+]
